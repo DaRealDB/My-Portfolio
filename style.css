@@ -1,0 +1,65 @@
+
+.tabs{
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  text-align: center;
+  margin-top: 30px;
+  font-family:Poppins;
+}
+
+
+
+#intro{
+width: 400px;
+margin: auto;
+display: flex;
+color: #e3b6b1;
+}
+
+.background{
+  background-color: #150016;
+}
+
+#home{
+  border-right: solid;
+  border-color: #e3b6b1;
+  border-radius: 2px;
+  border-style: solid;
+  height: px;
+  width: 100px;
+  background-color: #522C5D;
+  margin-left: 45px;
+}
+
+#about{
+  border-right: solid;
+  border-color: #e3b6b1;
+  border-radius: 2px;
+  border-style: solid;
+  height: px;
+  width: 100px;
+  background-color: #522C5D;
+  margin-left: 45px;
+}
+
+#skills{
+  border-right: solid;
+  border-color: #e3b6b1;
+  border-radius: 2px;
+  border-style: solid;
+  height: px;
+  width: 100px;
+  background-color: #522C5D;
+  margin-left: 45px;
+}
+
+#contact{
+  border-right: solid;
+  border-color: #e3b6b1;
+  border-radius: 2px;
+  border-style: solid;
+  height: px;
+  width: 100px;
+  background-color: #522C5D;
+  margin-left: 45px;
+}
